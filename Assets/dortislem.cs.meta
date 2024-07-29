@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c30bf23398fab9043afd16cce7dae7e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ilkSayi: {instanceID: 0}
+  - ikinciSayi: {instanceID: 0}
+  - islem: {instanceID: 0}
+  - sonuc: {instanceID: 0}
+  - cevap: {instanceID: 0}
+  - sonucInput: {instanceID: 0}
+  - dogruSes: {fileID: 8300000, guid: 814423f28188ea145a98623eb1955dc3, type: 3}
+  - "yanl\u0131sSes": {fileID: 8300000, guid: 35081d961798172488f0afb4a3afc172, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
